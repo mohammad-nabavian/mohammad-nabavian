@@ -40,8 +40,6 @@ asynchronous processing, system design, and scalable architectures.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-### 📌 Featured Projects
-| Project | What it does | Stack |
 ### 🚀 Featured Projects
 
 #### 🎬 Filima — Movie Streaming Backend
