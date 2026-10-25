@@ -59,10 +59,10 @@ A Trello-inspired project management application built with Django and Django Ch
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammad-nab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-nab&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammad-nabavian&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-nabavian&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-nab&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-nabavian&theme=tokyonight&hide_border=true" />
 </p>
